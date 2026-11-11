@@ -43,25 +43,6 @@ const maad = {
 | 🧹 WhySystem | Scripts de otimização de Windows para gaming, limpeza de rastros e QoS. | PowerShell, VBS |
 | 🎭 Fatal-Model-Premium | Bypass de restrições e melhoria de UI/UX no Fatal Model. | JS |
 
-## 🛠️ Tecnologias & Ferramentas
-
-### Linguagens & Web
-
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-### Sistemas & Automação
-
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
-### Outros
-
-<img src="https://img.shields.io/badge/Tampermonkey-000000?style=for-the-badge&logo=tampermonkey&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
